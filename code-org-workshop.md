@@ -41,9 +41,9 @@ Glossary at the back of the book and [online](http://code.org/curriculum/docs/
 
 **11:10-12:00 Prep for your Lesson**
 
-  * Group 1 and 4: The Big Event -- p. 71 ([Teacher Materials](http://code.org/curriculum/course1/15/Teacher) / [Video](http://learn.code.org/s/course1/stage/15/puzzle/1))
-  * Group 2 and 5: Graph Paper Programming -- p. 90 ([Teacher Materials](http://code.org/curriculum/course2/1/Teacher) / [Video](http://studio.code.org/s/course2/stage/1/puzzle/1))
-  * Group 3 and 6: Conditionals with Cards -- p.139 ([Teacher Materials](http://code.org/curriculum/course2/12/Teacher) / [Video](http://learn.code.org/s/course2/stage/12/puzzle/1) )
+  * Group 1: The Big Event -- p. 71 ([Teacher Materials](http://code.org/curriculum/course1/15/Teacher) / [Video](http://learn.code.org/s/course1/stage/15/puzzle/1))
+  * Group 2: Graph Paper Programming -- p. 90 ([Teacher Materials](http://code.org/curriculum/course2/1/Teacher) / [Video](http://studio.code.org/s/course2/stage/1/puzzle/1))
+  * Group 3: Conditionals with Cards -- p.139 ([Teacher Materials](http://code.org/curriculum/course2/12/Teacher) / [Video](http://learn.code.org/s/course2/stage/12/puzzle/1) )
 
 **12:00-1:00 Lunch**
 
