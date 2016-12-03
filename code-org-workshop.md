@@ -12,9 +12,9 @@ redirect_from: "/speaking/code-org-workshop/"
 **8:30-9:00 Registration and Puzzle Preview**
 
   * [Chat room](https://todaysmeet.com/CodeOrgSF)
-  * Course 1 -- For non-readers (<a href="http://learn.code.org/s/course1/stage/3/puzzle/1">Try it!</a>)
-  * Course 2 -- For readers (<a href="http://learn.code.org/s/course2/stage/3/puzzle/1">Try it!</a>)
-  * Course 3 -- For Course 2 graduates (<a href="http://learn.code.org/s/course3/stage/2/puzzle/1">Try it!</a>)
+  * Course 1 -- For non-readers ([Try it!](http://learn.code.org/s/course1/stage/3/puzzle/1))
+  * Course 2 -- For readers ([Try it!](http://learn.code.org/s/course2/stage/3/puzzle/1))
+  * Course 3 -- For Course 2 graduates ([Try it!](http://learn.code.org/s/course3/stage/2/puzzle/1))
   * Course 4 -- For Course 3 graduates ([Try it!](http://studio.code.org/s/course4/))
 
 **9:00-9:20 Welcome and Introduction**
