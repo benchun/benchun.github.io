@@ -4,6 +4,7 @@ title: Code.org K-5 Workshop
 date: 2014-11-15T02:40:47+00:00
 author: benchun
 layout: page
+redirect_from: "/speaking/code-org-workshop/"
 ---
 
 ## Agenda
