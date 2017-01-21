@@ -24,7 +24,7 @@ redirect_from: "/speaking/code-org-workshop/"
 **10:00-10:30 Maze: Loops, Puzzle -- Online Lessons**
 
   * **First,** [log in](http://studio.code.org/users/sign_in) to your code.org teacher account (or use the [teacher account signup](http://learn.code.org/users/sign_up?user%5Buser_type%5D=teacher))
-  * **After logging in, **click this special link: **[studio.code.org/join/FFVVDT](http://studio.code.org/join/FFVVDT)**
+  * **After logging in, **click this special link: **[studio.code.org/join/FXQKPZ](http://studio.code.org/join/FXQKPZ)**
   * **Then go to** Course 1, Stage 13: [Try it!](http://studio.code.org/s/course1/stage/13/puzzle/1)
   * or Course 2, Stage 6: [Try it!](http://studio.code.org/s/course2/stage/6/puzzle/1)
 
