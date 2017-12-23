@@ -16,5 +16,5 @@ github_username:  benchun
 # Build settings
 markdown: kramdown
 
-gems:
+plugins:
   - jekyll-redirect-from
