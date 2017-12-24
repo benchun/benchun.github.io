@@ -4,6 +4,7 @@ title: Conversations
 date: 2012-10-12T06:52:21+00:00
 author: benchun
 layout: post
+redirect_from: "/2012/10/conversations/"
 ---
 ![Conversations](/wp-content/uploads/2012/10/conversations-300x300.jpg){: srcset="/wp-content/uploads/2012/10/conversations-150x150.jpg 150w, /wp-content/uploads/2012/10/conversations-300x300.jpg 300w, /wp-content/uploads/2012/10/conversations.jpg 640w"}{: sizes="(max-width: 300px) 100vw, 300px"}
 

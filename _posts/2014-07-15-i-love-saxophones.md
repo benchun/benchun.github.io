@@ -4,6 +4,7 @@ title: I Love Saxophones
 date: 2014-07-15T15:53:05+00:00
 author: benchun
 layout: post
+redirect_from: "/2014/07/i-love-saxophones/"
 ---
 ![I Love Saxophones](/wp-content/uploads/2014/07/I-Love-Saxophones-300x300.jpg){: srcset="/wp-content/uploads/2014/07/I-Love-Saxophones-150x150.jpg 150w, /wp-content/uploads/2014/07/I-Love-Saxophones-300x300.jpg 300w, /wp-content/uploads/2014/07/I-Love-Saxophones-1024x1024.jpg 1024w, /wp-content/uploads/2014/07/I-Love-Saxophones.jpg 1200w"}{: sizes="(max-width: 300px) 100vw, 300px"}
 

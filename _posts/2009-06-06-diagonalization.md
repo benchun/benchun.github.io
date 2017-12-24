@@ -4,6 +4,7 @@ title: Diagonalization
 date: 2009-06-06T08:45:34+00:00
 author: benchun
 layout: post
+redirect_from: "/2009/06/diagonalization/"
 ---
 ![Diagonalization](/wp-content/uploads/2009/06/3602379156_615fcb76de_o-300x300.jpg){: srcset="/wp-content/uploads/2009/06/3602379156_615fcb76de_o-150x150.jpg 150w, /wp-content/uploads/2009/06/3602379156_615fcb76de_o-300x300.jpg 300w, /wp-content/uploads/2009/06/3602379156_615fcb76de_o.jpeg 913w"}{: sizes="(max-width: 300px) 100vw, 300px"}
 

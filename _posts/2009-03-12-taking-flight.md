@@ -4,6 +4,7 @@ title: Taking Flight
 date: 2009-03-12T08:40:21+00:00
 author: benchun
 layout: post
+redirect_from: "/2009/03/taking-flight/"
 ---
 ![Taking Flight](/wp-content/uploads/2009/03/3351672924_8f2fd42167_o-300x300.jpg){: srcset="/wp-content/uploads/2009/03/3351672924_8f2fd42167_o-150x150.jpg 150w, /wp-content/uploads/2009/03/3351672924_8f2fd42167_o-300x300.jpg 300w, /wp-content/uploads/2009/03/3351672924_8f2fd42167_o.jpeg 500w"}{: sizes="(max-width: 300px) 100vw, 300px"}
 

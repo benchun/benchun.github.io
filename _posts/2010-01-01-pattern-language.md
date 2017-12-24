@@ -4,6 +4,7 @@ title: Pattern Language
 date: 2010-01-01T03:02:58+00:00
 author: benchun
 layout: post
+redirect_from: "/2010/01/pattern-language/"
 ---
 ![Pattern Language](/wp-content/uploads/2010/01/5195722511_218c24710e_b-300x300.jpg){: srcset="/wp-content/uploads/2010/01/5195722511_218c24710e_b-150x150.jpg 150w, /wp-content/uploads/2010/01/5195722511_218c24710e_b-300x300.jpg 300w, /wp-content/uploads/2010/01/5195722511_218c24710e_b.jpeg 1000w"}{: sizes="(max-width: 300px) 100vw, 300px"}
 

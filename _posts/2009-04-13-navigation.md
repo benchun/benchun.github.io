@@ -4,6 +4,7 @@ title: Navigation
 date: 2009-04-13T08:39:56+00:00
 author: benchun
 layout: post
+redirect_from: "/2009/04/navigation/"
 ---
 ![Navigation](/wp-content/uploads/2009/04/3441045277_0d3826a9be_o-300x300.jpg){: srcset="/wp-content/uploads/2009/04/3441045277_0d3826a9be_o-150x150.jpg 150w, /wp-content/uploads/2009/04/3441045277_0d3826a9be_o-300x300.jpg 300w, /wp-content/uploads/2009/04/3441045277_0d3826a9be_o.jpeg 800w}{: sizes="(max-width: 300px) 100vw, 300px"}
 
