@@ -4,6 +4,7 @@ title: Inception
 date: 2013-09-28T16:28:14+00:00
 author: benchun
 layout: post
+redirect_from: "/2013/09/inception/"
 ---
 ![Inception](/wp-content/uploads/2013/09/inception-300x300.jpg){: srcset="/wp-content/uploads/2013/09/inception-150x150.jpg 150w, /wp-content/uploads/2013/09/inception-300x300.jpg 300w, /wp-content/uploads/2013/09/inception.jpg 870w"}{: sizes="(max-width: 300px) 100vw, 300px"}
 
