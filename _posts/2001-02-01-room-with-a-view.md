@@ -5,7 +5,8 @@ author: benchun
 layout: post
 ---
 
-[benchun - Room with a View](http://mp3.benchun.net/benchun-room-with-a-view.mp3){: .wpaudio}
+<audio src="http://mp3.benchun.net/benchun-room-with-a-view.mp3" preload="auto" controls></audio>  
+(download [mp3](http://mp3.benchun.net/benchun-room-with-a-view.mp3))
 
 McMillan and South - Ritual Celebration  
 Plump DJs - No Way!  

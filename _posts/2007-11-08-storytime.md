@@ -9,7 +9,8 @@ layout: post
 
 winter listening music
 
-[benchun &#8211; Storytime](http://mp3.benchun.net/benchun-storytime.mp3){: .wpaudio}
+<audio src="http://mp3.benchun.net/benchun-storytime.mp3" preload="auto" controls></audio>  
+(download [mp3](http://mp3.benchun.net/benchun-storytime.mp3))
 
 Beck – Broken Drum (Boards of Canada Remix)  
 Moderat – Let Your Love Grow (ft. Paul St. Hilaire)  

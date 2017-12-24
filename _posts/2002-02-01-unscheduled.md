@@ -5,7 +5,8 @@ author: benchun
 layout: post
 ---
 
-[benchun - Unscheduled](http://mp3.benchun.net/benchun-unscheduled.mp3){: .wpaudio}
+<audio src="http://mp3.benchun.net/benchun-unscheduled.mp3" preload="auto" controls></audio>  
+(download [mp3](http://mp3.benchun.net/benchun-unscheduled.mp3))
 
 Stabilizer - Carbon  
 Wildlife Display Team - Gonzo  

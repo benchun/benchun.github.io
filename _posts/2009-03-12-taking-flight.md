@@ -9,9 +9,8 @@ layout: post
 
 This mix is, among other things: a dream about flying, a risk, a recovery, a single form with its own outline, a reconnection with the piano, an open window, a break in the clouds, a struggle to be free from genres, a wide smile, a moment to remember the natural world, a gentle light, some common ground, and a reminder that spring will come.
 
-[benchun &#8211; Taking Flight](http://mp3.benchun.net/benchun-taking-flight.mp3){: .wpaudio}
-
-
+<audio src="http://mp3.benchun.net/benchun-taking-flight.mp3" preload="auto" controls></audio>  
+(download [mp3](http://mp3.benchun.net/benchun-taking-flight.mp3))
 
 Bloc Party – Signs  
 Nanda – Demon Killer  

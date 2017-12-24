@@ -7,4 +7,5 @@ layout: post
 
 Enter the lunar module and prepare for liftoff... Bruinslair is one of those few bastions of integrity in an increasingly commercialized and environmentally endangered world. This recording was made at their summer celebration, a magical night for everyone involved.
 
-[benchun - Live at Bruinslair](http://mp3.benchun.net/benchun-bruinslair-2003.mp3){: .wpaudio}
+<audio src="http://mp3.benchun.net/benchun-bruinslair-2003.mp3" preload="auto" controls></audio>  
+(download [mp3](http://mp3.benchun.net/benchun-bruinslair-2003.mp3))

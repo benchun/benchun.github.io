@@ -9,7 +9,8 @@ layout: post
 
 This mix is, among other things: a sound map for drifting without getting lost, some questions about dance music, a bout of eternal recurrence, your smile after we talked, life in the face of death, a dip into the terrifying and beautiful substance of desire, l&#8217;esprit d&#8217;escalier, and a silent shift that happens somewhere between your bones and your stomach.
 
-[benchun &#8211; Conversations](http://mp3.benchun.net/benchun-conversations.mp3){: .wpaudio}
+<audio src="http://mp3.benchun.net/benchun-conversations.mp3" preload="auto" controls></audio>  
+(download [mp3](http://mp3.benchun.net/benchun-conversations.mp3))
 
 D.L.I.d. &#8211; Colour In Your Hands (ft. Fink)  
 Purity Ring &#8211; Obedear (Jake Robertz Remix)  

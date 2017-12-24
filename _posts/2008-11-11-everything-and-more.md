@@ -9,7 +9,8 @@ layout: post
 
 This mix is, among other things: a love letter, a meditation, a rediscovery of the horn section, a confession, an apology, proof that vocals can be more than samples, a weekend night in, a tribute to David Foster Wallace, a deep breath, a swirl of sensory memories, and heartfelt hope for the future.
 
-[benchun &#8211; Everything and More](http://mp3.benchun.net/benchun-everything-and-more.mp3){: .wpaudio}
+<audio src="http://mp3.benchun.net/benchun-everything-and-more.mp3" preload="auto" controls></audio>  
+(download [mp3](http://mp3.benchun.net/benchun-everything-and-more.mp3))
 
 Murs – Everything  
 Heyoka – Shmlizl  

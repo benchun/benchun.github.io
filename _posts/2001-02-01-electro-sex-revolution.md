@@ -5,7 +5,8 @@ author: benchun
 layout: post
 ---
 
-[benchun - Electro Sex Revolution](http://mp3.benchun.net/benchun-electro-sex-revolution.mp3){: .wpaudio}
+<audio src="http://mp3.benchun.net/benchun-electro-sex-revolution.mp3" preload="auto" controls></audio>  
+(download [mp3](http://mp3.benchun.net/benchun-electro-sex-revolution.mp3))
 
 Kraftwerk - Tour De France (Remix Francois K)  
 Aux 88 - Break It Down  

@@ -9,7 +9,8 @@ layout: post
 
 This mix is among other things, for every thing has other things among which it may be found or placed. Bounds built of language cannot enclose all. Diagonalization, then, is a survival strategy. Remember: the members of an infinite set are still themselves distinct. We are nothing if not discrete, yet nothing if we remain orthogonal. Diagonalization, then, is a reshaping for deeper understanding.
 
-[benchun &#8211; Diagonalization](http://mp3.benchun.net/benchun-diagonalization.mp3){: .wpaudio}
+<audio src="http://mp3.benchun.net/benchun-diagonalization.mp3" preload="auto" controls></audio>  
+(download [mp3](http://mp3.benchun.net/benchun-diagonalization.mp3))
 
 Erykah Badu – Danger (ft. China Blac)  
 Ill Gates and Meesha – Sweatshop  

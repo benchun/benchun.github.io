@@ -9,7 +9,8 @@ layout: post
 
 This mix is, among other things: another step on the path toward home, a stand against winter, the return of uptempo breakbeat, a warm rock in low-angle sun, a force that traverses a shade, a specially-made gift, some 80s fashion, that moment you fall asleep on the phone, an honest composition, and threaded with a deep undercurrent of hope that we find peace.
 
-[benchun &#8211; J&#8217;lem Dreams](http://mp3.benchun.net/benchun-jlem-dreams.mp3){: .wpaudio}
+<audio src="http://mp3.benchun.net/benchun-jlem-dreams.mp3" preload="auto" controls></audio>  
+(download [mp3](http://mp3.benchun.net/benchun-jlem-dreams.mp3))
 
 The xx – Intro  
 Blue Scholars – Lumiere  

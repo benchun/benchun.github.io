@@ -9,7 +9,8 @@ layout: post
 
 This mix is, among other things: an open empty hand, another passage into liminal space, a wish it were otherwise, a mirror pointed at the sun, what I can offer today, a watercolor of the larger self holding the smaller self, some notes from a hard lesson, a step toward taking the long way, my appreciation for touching words and moments, and silence for that whereof we cannot speak.
 
-[benchun &#8211; Navigation](http://mp3.benchun.net/benchun-navigation.mp3){: .wpaudio}
+<audio src="http://mp3.benchun.net/benchun-navigation.mp3" preload="auto" controls></audio>  
+(download [mp3](http://mp3.benchun.net/benchun-navigation.mp3))
 
 Chemical Brothers – Where Do I Begin  
 Mobthrow – My Dub Kingdom (Mobthrow Remixes FSOL)  

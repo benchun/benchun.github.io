@@ -9,7 +9,8 @@ layout: post
 
 This mix is, among other things: a mark of the season, an ongoing fight for honesty, a need, a desire, a campfire, a peripheral vision, balance that isn’t a compromise, a thin blanket of snow, a tribute to Christopher Alexander, a dream seeking words, a roll across the shoulders, an acceptance of the unknown process, and a brush against the edges.
 
-[benchun &#8211; Pattern Language](http://mp3.benchun.net/benchun-pattern-language.mp3){: .wpaudio}
+<audio src="http://mp3.benchun.net/benchun-pattern-language.mp3" preload="auto" controls></audio>  
+(download [mp3](http://mp3.benchun.net/benchun-pattern-language.mp3))
 
 Echaskech – Redeploy  
 Studio 360 with Kurt Andersen (August 15, 2008)  

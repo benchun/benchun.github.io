@@ -9,8 +9,8 @@ layout: post
 
 This mix is, among other things: the suspension of disbelief, a thank you note from a future self, a carefree swim in warm ocean waters, a poem otherwise whispered, some reasons for leaving the safe path, saudade for what can&#8217;t be told, a thousand tiny lights in a dark amphitheater, a story read aloud for you to fall asleep with, and an ode to the birds and the beasts.
 
-[benchun &#8211; Inception](http://mp3.benchun.net/benchun-inception.mp3){: .wpaudio}
-
+<audio src="http://mp3.benchun.net/benchun-inception.mp3" preload="auto" controls></audio>  
+(download [mp3](http://mp3.benchun.net/benchun-inception.mp3))
 
 Big Boi &#8211; Lines (ft. A$AP Rocky & Phantogram)  
 Mikky Ekko &#8211; Pull Me Down (Ryan Hemsworth Remix)  

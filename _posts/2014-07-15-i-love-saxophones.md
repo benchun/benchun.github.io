@@ -9,7 +9,8 @@ layout: post
 
 Priceless 2014 Beach Party
 
-[benchun &#8211; I Love Saxophones](http://mp3.benchun.net/benchun-i-love-saxophones.mp3){: .wpaudio}
+<audio src="http://mp3.benchun.net/benchun-i-love-saxophones.mp3" preload="auto" controls></audio>  
+(download [mp3](http://mp3.benchun.net/benchun-i-love-saxophones.mp3))
 
 Dr. Dre ft. Snoop Doggy Dogg- Nuthin&#8217; but a G Thang (Mighty Mi & Slugworth Remix)  
 Iggy Azalea ft. Charli XCX &#8211; Fancy (GTA Remix)  
