@@ -9,7 +9,6 @@ layout: post
 
 This mix is, among other things: a soft landing at the end of a long night, proper respect to dancehall, standing on my own two ears, getting swept off my feet, some science experiments, a reawakening of forgotten possibilities, the shadows on the curtains when you’re still in bed, and a kiss that has a beginning, middle, and end.
 
-[benchun - Experience the Future](http://mp3.benchun.net/benchun-experience-the-future.mp3){: .wpaudio}
 <audio src="http://mp3.benchun.net/benchun-experience-the-future.mp3" preload="auto" controls></audio>  
 (download [mp3](http://mp3.benchun.net/benchun-experience-the-future.mp3))
 
