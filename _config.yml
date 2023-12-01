@@ -10,7 +10,6 @@ title: benchun
 name: benchun.net
 description: Teacher, DJ, Citizen
 url: http://benchun.net
-twitter_username: benchun
 github_username:  benchun
 
 # Build settings
@@ -18,3 +17,6 @@ markdown: kramdown
 
 plugins:
   - jekyll-redirect-from
+
+exclude:
+  - projects.md

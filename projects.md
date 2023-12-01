@@ -8,12 +8,11 @@ layout: page
 
 ilearnedtoprogram.com
 ---------------------
-I made <http://ilearnedtoprogram.com> so
+In 2011, I made a website, ilearnedtoprogram.com (now defunct), so
 there would be a place to read and share very short stories about learning to
-program. It was also an excuse to learn [MongoDB](http://www.mongodb.org/)
-and turned out to be really fun.
+program.
 
-I've since written about the motivation, process, and outcomes:
+Some thoughts about the motivation, process, and outcomes:
 
 * <a href="http://itmoves.wordpress.com/2011/04/20/how-did-you-learn-to-program/">How did you learn to program?</a>
 * <a href="http://itmoves.wordpress.com/2011/04/25/having-10000-people-over/">Having 10,000 People Over</a>
@@ -23,8 +22,8 @@ This article <a href="http://www.women2.org/ilearnedtoprogram-shows-cs-diversity
 
 Computational Thinking Illustrated
 ----------------------------------
-In 2011, Computational Thinking was starting to become a popular term in the
-world of CS education, but there was confusion about what it meant and
+Computational Thinking is popular term in the
+world of CS education, but when it first arose there was confusion about what it meant and
 difficulty communicating that meaning to students. In collaboration with
 illustrator <a href="http://glitchworks.com/">Tim Piotrowski</a>, I ran a
 <a href="http://www.kickstarter.com/projects/benchun/computational-thinking-illustrations">Kickstarter project</a>
