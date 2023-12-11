@@ -9,13 +9,15 @@ layout: page
 ---------------------
 August 23: [Round Trip Angel Island](https://marathonswimmers.org/swims/angel-island/2023/chun/){:target="_blank"}, 5:37:47
 
-July 30: [Cruz Cruise (2 Mile)](https://results.raceroster.com/v2/en-US/results/z3cysbb9e52ambd3/results?subEvent=172800&page=1){:target="_blank"}, 45:00
+July 30: [Cruz Cruise (2 Mile)](https://results.raceroster.com/v2/en-US/results/z3cysbb9e52ambd3/results?subEvent=172800&page=1){:target="_blank"}, 45:00 (age group 2/4, overall 6/57)
 
-July 29: [Santa Cruz Roughwater (1 Mile)](https://results.raceroster.com/v2/en-US/results/z3cysbb9e52ambd3/results?subEvent=172798&page=1){:target="_blank"}, 20:34 
+July 29: [Santa Cruz Roughwater (1 Mile)](https://results.raceroster.com/v2/en-US/results/z3cysbb9e52ambd3/results?subEvent=172798&page=1){:target="_blank"}, 20:34  (age group 2/7, overall 16/164)
 
-June 3: [Lake Berryessa 2-Mile Swim](https://results.svetiming.com/UC-Davis-Aquatic-Masters/events/2023/lake-berryessa-open-water-swims/results){:target="_blank"}, 45:53
+July 15: [Trans Tahoe Relay](https://runsignup.com/race/results/?raceId=150032#resultSetId-392445;perpage:100), 4:15:06 (Team Bound Nomads, Men's 300+ division 4/14) 
 
-June 3: [Lake Berryessa 1-Mile Swim](https://results.svetiming.com/UC-Davis-Aquatic-Masters/events/2023/lake-berryessa-open-water-swims/results){:target="_blank"}, 23:42
+June 3: [Lake Berryessa (2 Mile))](https://results.svetiming.com/UC-Davis-Aquatic-Masters/events/2023/lake-berryessa-open-water-swims/results){:target="_blank"}, 45:53 (age group 3/13, overall 33/275)
+
+June 3: [Lake Berryessa (1 Mile)](https://results.svetiming.com/UC-Davis-Aquatic-Masters/events/2023/lake-berryessa-open-water-swims/results){:target="_blank"}, 23:42 (age group 3/16, overall 23/302)
 
 
 2022
