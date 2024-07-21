@@ -20,3 +20,4 @@ plugins:
 
 exclude:
   - projects.md
+  - speaking.md
