@@ -7,7 +7,9 @@ layout: page
 
 2024
 ---------------------
-July 18: [Lake Tahoe Length](https://www.tahoeopenwater.org/july-18-2024-benjamin-chun-length-of-lake-tahoe/){:target="_blank"}, 11:29:54 (pending ratification)
+August 18: [Cruz Cruise](https://results.raceroster.com/v2/en-US/results/7cj4v37rnq9bpfzx/results?subEvent=208870&page=1){:target="_blank"}, 43:04 (age group 3/8, overall 7/78)
+
+July 18: [Lake Tahoe Length](https://www.tahoeopenwater.org/results/lake-tahoe-length-swim-results/){:target="_blank"}, 11:29:54
 
 2023
 ---------------------
@@ -22,7 +24,6 @@ July 15: [Trans Tahoe Relay](https://runsignup.com/race/results/?raceId=150032#r
 June 3: [Lake Berryessa (2 Mile)](https://results.svetiming.com/UC-Davis-Aquatic-Masters/events/2023/lake-berryessa-open-water-swims/results){:target="_blank"}, 45:53 (age group 3/13, overall 33/275)
 
 June 3: [Lake Berryessa (1 Mile)](https://results.svetiming.com/UC-Davis-Aquatic-Masters/events/2023/lake-berryessa-open-water-swims/results){:target="_blank"}, 23:42 (age group 3/16, overall 23/302)
-
 
 2022
 ---------------------
