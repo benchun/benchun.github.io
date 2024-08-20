@@ -7,7 +7,7 @@ layout: page
 
 2024
 ---------------------
-August 18: [Cruz Cruise](https://results.raceroster.com/v2/en-US/results/7cj4v37rnq9bpfzx/results?subEvent=208870&page=1){:target="_blank"}, 43:04 (age group 3/8, overall 7/78)
+August 18: [Santa Cruz Cruise](https://results.raceroster.com/v2/en-US/results/7cj4v37rnq9bpfzx/results?subEvent=208870&page=1){:target="_blank"}, 43:04 (age group 3/8, overall 7/78)
 
 July 18: [Lake Tahoe Length](https://www.tahoeopenwater.org/results/lake-tahoe-length-swim-results/){:target="_blank"}, 11:29:54
 
@@ -15,7 +15,7 @@ July 18: [Lake Tahoe Length](https://www.tahoeopenwater.org/results/lake-tahoe-l
 ---------------------
 August 23: [Round Trip Angel Island](https://marathonswimmers.org/swims/angel-island/2023/chun/){:target="_blank"}, 5:37:47
 
-July 30: [Cruz Cruise (2 Mile)](https://results.raceroster.com/v2/en-US/results/z3cysbb9e52ambd3/results?subEvent=172800&page=1){:target="_blank"}, 45:00 (age group 2/4, overall 6/57)
+July 30: [Santa Cruz Cruise (2 Mile)](https://results.raceroster.com/v2/en-US/results/z3cysbb9e52ambd3/results?subEvent=172800&page=1){:target="_blank"}, 45:00 (age group 2/4, overall 6/57)
 
 July 29: [Santa Cruz Roughwater (1 Mile)](https://results.raceroster.com/v2/en-US/results/z3cysbb9e52ambd3/results?subEvent=172798&page=1){:target="_blank"}, 20:34  (age group 2/7, overall 16/164)
 

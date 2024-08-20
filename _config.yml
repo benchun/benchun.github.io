@@ -10,7 +10,8 @@ title: benchun
 name: benchun.net
 description: Teacher, DJ, Citizen
 url: http://benchun.net
-github_username:  benchun
+instagram_username: benchun
+soundcloud_username: benchun
 
 # Build settings
 markdown: kramdown
