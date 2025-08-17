@@ -1,9 +1,13 @@
 ---
 title: Swimming
-date: 2023-12-01
+date: 2025-08-17
 author: benchun
 layout: page
 ---
+
+2025
+---------------------
+August 17: [Santa Cruz Cruise](https://results.raceroster.com/v2/en-US/results/4f2dd5cgfte6fx72/results?subEvent=237704&page=1){:target="_blank"}, 44:49 (age group 1/2, overall 11/59)
 
 2024
 ---------------------
