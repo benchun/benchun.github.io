@@ -7,6 +7,8 @@ layout: page
 
 2025
 ---------------------
+September 1: [Waikiki Roughwater](https://www.pseresults.com/2025-events/waikiki-roughwater-swim-2025){:target="_blank"}, 53:36 (age group 5/40, overall 88/717)
+
 August 17: [Santa Cruz Cruise](https://results.raceroster.com/v2/en-US/results/4f2dd5cgfte6fx72/results?subEvent=237704&page=1){:target="_blank"}, 44:49 (age group 1/2, overall 11/59)
 
 2024
